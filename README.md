@@ -4,8 +4,11 @@
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in C++](https://github.com/pranav0440/DSA-in-C-)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware]() <b><i>(Potentially NSFW)</b></i>
+- <b>Database-Solutions</b>
+  - [Database-Design]()
+  - [Query-Optimization]()
+  - [Data-Analysis]()
+  - [Advanced Features]() 
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion]()
   - [JWipe (Disk Wiping Utility)]()
