@@ -5,6 +5,7 @@
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in C++](https://github.com/pranav0440/DSA-in-C-)
 - <b>Database-Solutions (MySql)</b>
+  - [Database-Problems-Solutions](https://github.com/pranav0440/Database-Solutions/tree/main/Database-Problems-%26Solutions)
   - [Database-Design](https://github.com/pranav0440/Database-Solutions/blob/main/Database-Design)
   - [Query-Optimization](https://github.com/pranav0440/Database-Solutions/blob/main/Query-Optimization)
   - [Data-Analysis](https://github.com/pranav0440/Database-Solutions/blob/main/Data-Analysis)
